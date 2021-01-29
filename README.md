@@ -1,2 +1,2 @@
 # ccmi-explorecsr
-Repository for workshop colabs and coding exercises
+Repository for workshop colabs and python coding samples

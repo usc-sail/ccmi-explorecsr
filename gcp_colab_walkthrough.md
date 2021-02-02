@@ -12,3 +12,5 @@
 <img src="/images/colab-runtime1.png" width="400" hspace="40"/>
 <img src="/images/colab-runtime2.png" width="400" />
 </p>
+
+<img src="/images/colab-runtime.gif">

@@ -9,6 +9,6 @@
 4. Open the colab notebook in your browser (e.g: https://colab.research.google.com/github/usc-sail/ccmi-explorecsr/blob/main/workshop-1/xcsr_audio.ipynb)
 5. Connect to local runtime with the token link provided by your mentor (e.g: http://localhost:8081/?token=0d3fdf1a5656aa400800ff8a33b9f40ade91ecd2b2718ff2)
 <p float="left">
-<img src="/images/colab-runtime1.png" width="400" hspace="100"/>
-<img src="/images/colab-runtime2.png" width="250" />
+<img src="/images/colab-runtime1.png" width="400" hspace="40"/>
+<img src="/images/colab-runtime2.png" width="400" />
 </p>
